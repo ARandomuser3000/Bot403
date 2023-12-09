@@ -1,0 +1,1759 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been destroyed in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been destroyed in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been destroyed in Trades"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mEl Lago\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mObertura Mdxx\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mObertura Mdxx\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mVan A Rodar Cabezas\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Still playing"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mAncha Es Castilla\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | [\u001b[34mautoLeave\u001b[39m] has been [\u001b[34mENABLED\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mFiesta Pagana\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | [\u001b[34mautoLeave\u001b[39m] has been [\u001b[34mDISABLED\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | [\u001b[34mAUTOPAUSE\u001b[39m] has been [\u001b[34mDISABLED\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | [\u001b[34mAUTOPAUSE\u001b[39m] has been [\u001b[34mENABLED\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mEl Que Quiera Entender Que Entienda\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mEl Pacto\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mEl Arbol De La Noche Triste\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully paused the player"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully resumed the player"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully paused the player"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully resumed the player"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGaia\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mEl Peso Del Alma\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mLa Rosa De Los Vientos\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mNoche Toledana\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully paused the player"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mNoche Toledana\u001b[39m]"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGaia\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"warn","message":"warn: Unable to load Command: play, File doesn't have either command/run"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGaia\u001b[39m]"}
+{"level":"info","message":"info: Reloaded 34 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mMägo de oz - La cantata del diablo (directo Diabulus in opera)\u001b[39m]"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been destroyed in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mShakira - Loba (Official HD Video)\u001b[39m]"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Reproductor:: 975873572650233866 | [\u001b[34mAUTOPAUSE\u001b[39m] ha sido [\u001b[34mdeshabilidado\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Reproductor:: 975873572650233866 | [\u001b[34mAUTOPAUSE\u001b[39m] ha sido [\u001b[34mhabilitado\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: El reproductor: 975873572650233866 | [\u001b[34mautoLeave\u001b[39m] ha sido [\u001b[34mhabilitado\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: El reproductor: 975873572650233866 | [\u001b[34mautoLeave\u001b[39m] ha sido [\u001b[34mdeshabilidado\u001b[39m] in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mRudolph the Red Nosed Reindeer (with Lyrics)\u001b[39m]"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGAIA  - La Paz Donde todo es Posible [DVD] - José Andrëa y Uróboros | En Directo\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected server response: 404."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: connect ECONNREFUSED 170.64.183.53:1035."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGAIA  - La Paz Donde todo es Posible [DVD] - José Andrëa y Uróboros | En Directo\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track had an error: undefined."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34msadsadasd\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track had an error: undefined."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected server response: 401."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mGAIA  - La Paz Donde todo es Posible [DVD] - José Andrëa y Uróboros | En Directo\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mLa Costa Del Silencio\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"info","message":"info: Reloaded 35 commands!"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mLa Costa Del Silencio\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully resumed the player"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mLa Venganza De Gaia\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mLa Venganza De Gaia\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Node: API Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: API Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been created in Trades"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mKHEA - Creo Que ft. Asan (Official Animated Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mKaty Perry - I Kissed A Girl (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Still playing"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Track has been started playing [\u001b[34mDari - I Kissed a Boy (Katy Perry)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Still playing"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | A wild player has been destroyed in Trades"}
+{"level":"warn","message":"warn: Iniciando el bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as Musica#7855"}
+{"level":"info","message":"info: Nodo: API Node | El nodo Lavalink está conectado."}
+{"level":"warn","message":"warn: Nodo: API Node | El nodo Lavalink tiene un error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Reproductor: 975873572650233866 | Se ha creado un reproductor en Trades"}
+{"level":"warn","message":"warn: Reproductor: 975873572650233866 | La pista ha comenzado a reproducirse [\u001b[34mDream - Imagine Dragons (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Reproductor: 975873572650233866 | La pista ha comenzado a reproducirse [\u001b[34mA roblox Anamation (Hacker)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 975873572650233866 | Todavía reproduciendo"}
+{"level":"warn","message":"warn: Reproductor: 975873572650233866 | La pista ha comenzado a reproducirse [\u001b[34mImagine Dragons - Believer (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Reproductor: 975873572650233866 | Un reproductor ha sido destruido en Trades"}
